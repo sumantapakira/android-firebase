@@ -1,1 +1,1 @@
-Firebase authentication and receive notification on Android app
+Firebase authentication, user registration and receive notification on Android app
