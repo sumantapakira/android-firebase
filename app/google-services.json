@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719859276104",
+    "firebase_url": "https://aem-voice.firebaseio.com",
+    "project_id": "aem-voice",
+    "storage_bucket": "aem-voice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719859276104:android:f93d2640e369a59e943b7d",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719859276104-2esimvmj8k1kab2uj78imgl6hk7etmt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testing",
+            "certificate_hash": "bb1b85867b6f9f8fdd14c5834f5ee4cb14bc39b8"
+          }
+        },
+        {
+          "client_id": "719859276104-88ug4ik01unqs6ra0l3t9ilt8bip3i4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXrDlFSFrypmbdyyWDx3Y2Ros-BZ8W-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719859276104-88ug4ik01unqs6ra0l3t9ilt8bip3i4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

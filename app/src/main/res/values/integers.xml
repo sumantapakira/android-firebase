@@ -1,0 +1,3 @@
+<resources>
+    <item type="integer" name="customImeActionId" format="integer">100</item>
+</resources>
